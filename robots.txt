@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jcbaskett.github.io/CreatingWithChrist/sitemap.xml
